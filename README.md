@@ -29,7 +29,7 @@ Users should be able to:
 
 ![](./screenshot.jpg)
 
- - 24/07
+ (screenshot taken on 24/07)
 
 ### Links
 
@@ -55,7 +55,8 @@ Things that needed to be done:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/matheuskid)
+- Frontend Mentor - [@matheuskid](https://www.frontendmentor.io/profile/matheuskid)
+- GitHub - [@matheuskid](https://github.com/matheuskid)
 
 ## Acknowledgments
 
