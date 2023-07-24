@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Site: [Result Sumarry](https://matheuskid.github.io/results-sumarry/)
+- Site: [Result Summary](https://matheuskid.github.io/results-sumarry/)
 
 ## My process
 
