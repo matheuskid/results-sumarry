@@ -140,6 +140,12 @@ body {
 
 .icon-name {
   display: flex;
+  flex-direction: row;
+
+}
+
+.icon-name img {
+  margin: 0 4px;
 }
 
 .result {
@@ -151,10 +157,14 @@ body {
 }
 
 .btn {
-  background: linear-gradient(0deg, hsl(241, 81%, 54%), hsl(252, 100%, 67%));
+  background: hsl(224, 30%, 27%);
   font-weight: 500;
   color: hsl(0, 0%, 100%);
   padding: 0.8em 0 0.8em 0;
   border: none;
   border-radius: 15px;
+}
+
+.btn:hover {
+  background: linear-gradient(0deg, hsl(241, 81%, 54%), hsl(252, 100%, 67%));
 }
