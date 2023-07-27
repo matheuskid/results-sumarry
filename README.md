@@ -22,10 +22,10 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 Users should be able to:
 
-- View the optimal layout for the interface depending on their device's screen size //
-- See hover and focus states for all interactive elements on the page //
+- View the optimal layout for the interface depending on their device's screen size // done
+- See hover and focus states for all interactive elements on the page // done?
 
-(i'm still working on it)
+(I think it's all done.... anyway, gonna move out to the next challenge)
 ### Screenshot
 
 ![](./screenshot.jpg)
