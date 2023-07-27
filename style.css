@@ -141,7 +141,6 @@ body {
 .icon-name {
   display: flex;
   flex-direction: row;
-
 }
 
 .icon-name img {
@@ -167,4 +166,21 @@ body {
 
 .btn:hover {
   background: linear-gradient(0deg, hsl(241, 81%, 54%), hsl(252, 100%, 67%));
+}
+
+@media only screen and (max-width: 440px) {
+  .box {
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+    min-width: 226px;
+  }
+
+  .left {
+    width: 100%;
+    height: 50%;
+    border-radius: 0;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+  }
 }
