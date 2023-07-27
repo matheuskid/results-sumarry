@@ -51,7 +51,7 @@ Pretty much the basics
 ### Continued development
 
 Things that needed to be done:
- - Responsive design
+ - Responsive design (done)
 
 ## Author
 
